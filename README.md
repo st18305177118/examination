@@ -1,4 +1,4 @@
-# Business-system-Training
+# Business-system-Training(实训)
 
 > training
 
